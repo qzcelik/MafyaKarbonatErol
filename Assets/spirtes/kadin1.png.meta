@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 6607078d76cf5f44996f589291463684
+timeCreated: 1463321774
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bas
+    21300002: ayak
+    21300004: agiz
+    21300006: el
+    21300008: govde
+    21300010: canta
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bas
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 381
+        width: 286
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -101.5}
+        - {x: 50, y: -98.5}
+        - {x: 94, y: -63.5}
+        - {x: 123, y: -16.5}
+        - {x: 123, y: 36.5}
+        - {x: 104, y: 57.5}
+        - {x: 143, y: 59.5}
+        - {x: 143, y: 93.5}
+        - {x: 95, y: 125.5}
+        - {x: 67, y: 132.5}
+        - {x: 39, y: 134.5}
+        - {x: -103, y: 134.5}
+        - {x: -123, y: 125.5}
+        - {x: -137, y: 105.5}
+        - {x: -143, y: 85.5}
+        - {x: -143, y: 17.5}
+        - {x: -139, y: -12.5}
+        - {x: -103, y: -134.5}
+        - {x: -92, y: -134.5}
+        - {x: -86, y: -119.5}
+        - {x: -73, y: -69.5}
+        - {x: -58, y: -82.5}
+    - name: ayak
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 508
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 46.5}
+        - {x: -37, y: -46.5}
+        - {x: 37, y: -46.5}
+        - {x: 37, y: -0.5}
+        - {x: -18, y: 46.5}
+    - name: agiz
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 397
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 17.5}
+        - {x: -35.5, y: 17.5}
+        - {x: -40.5, y: 8.5}
+        - {x: -40.5, y: -10.5}
+        - {x: -22.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 36.5, y: -12.5}
+        - {x: 40.5, y: -4.5}
+        - {x: 40.5, y: 12.5}
+    - name: el
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 251
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 29.5}
+        - {x: -28, y: 28.5}
+        - {x: -34, y: 16.5}
+        - {x: -34, y: -18.5}
+        - {x: -20, y: -29.5}
+        - {x: 31, y: -29.5}
+        - {x: 34, y: -19.5}
+        - {x: 34, y: 18.5}
+        - {x: 21, y: 29.5}
+    - name: govde
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 14
+        width: 255
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 2}
+        - {x: 108.5, y: 40}
+        - {x: 120.5, y: 52}
+        - {x: 127.5, y: 52}
+        - {x: 127.5, y: 104}
+        - {x: 113.5, y: 118}
+        - {x: 77.5, y: 144}
+        - {x: 42.5, y: 158}
+        - {x: 21.5, y: 164}
+        - {x: -56.5, y: 164}
+        - {x: -65.5, y: 163}
+        - {x: -101.5, y: 149}
+        - {x: -124.5, y: 119}
+        - {x: -127.5, y: 107}
+        - {x: -127.5, y: 34}
+        - {x: -114.5, y: -48}
+        - {x: -89.5, y: -123}
+        - {x: -60.5, y: -164}
+        - {x: -18.5, y: -164}
+        - {x: 2.5, y: -143}
+        - {x: 9.5, y: -128}
+        - {x: 42.5, y: -46}
+    - name: canta
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 176
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: 31.5}
+        - {x: -88, y: -60.5}
+        - {x: -85, y: -64.5}
+        - {x: -82, y: -74.5}
+        - {x: 88, y: -74.5}
+        - {x: 88, y: 39.5}
+        - {x: 86, y: 45.5}
+        - {x: 38, y: 74.5}
+        - {x: -36, y: 74.5}
+        - {x: -53, y: 71.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/KARAKTER/hareket.cs">
+    <Files>
+      <File FileName="Assets/code/KARAKTER/takip.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/bicakci/uzerineYuru.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/KARAKTER/hareket.cs" Line="27" Column="8" />
+      <File FileName="Assets/code/ortak/alYan.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/polis/duranPolis.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/polis2/karakterGorPolis.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/polis2/plsHrkt2.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/bicakci/dusmanBicak.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/ortak/sesAcik.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/ortak/sesKapali.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/bombaci/bombaHrkt.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/KARAKTER/mermiYokEt.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/siyahDsmn/dsmMrmYk.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

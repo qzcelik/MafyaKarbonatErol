@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 51b470c4fe3e2fc458e1ab83d97c8069
+timeCreated: 1468917383
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kompleAraHikaye_0
+    21300002: kompleAraHikaye_1
+    21300004: kompleAraHikaye_2
+    21300006: kompleAraHikaye_3
+    21300008: kompleAraHikaye_4
+    21300010: kompleAraHikaye_5
+    21300012: kompleAraHikaye_6
+    21300014: kompleAraHikaye_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kompleAraHikaye_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2280
+        width: 1129
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -384.5532, y: 248.34033}
+        - {x: -384.5532, y: -246.65967}
+        - {x: -383.5532, y: -247.65967}
+        - {x: 385.4468, y: -247.65967}
+        - {x: 385.4468, y: 248.34033}
+    - name: kompleAraHikaye_1
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2293
+        width: 1077
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -366.69153, y: 243.1914}
+        - {x: -366.69153, y: -242.8086}
+        - {x: 368.30847, y: -242.8086}
+        - {x: 368.30847, y: 243.1914}
+    - name: kompleAraHikaye_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1525
+        width: 1116
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -380.0532, y: 251.79785}
+        - {x: -380.0532, y: -251.20215}
+        - {x: 380.9468, y: -251.20215}
+        - {x: 380.9468, y: 251.79785}
+    - name: kompleAraHikaye_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1519
+        width: 1118
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -380.25537, y: 252.71277}
+        - {x: -380.25537, y: -252.28723}
+        - {x: 381.74463, y: -252.28723}
+        - {x: 381.74463, y: 252.71277}
+    - name: kompleAraHikaye_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 772
+        width: 1121
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -381.59573, y: 253.117}
+        - {x: -381.59573, y: -251.883}
+        - {x: 382.40427, y: -251.883}
+        - {x: 382.40427, y: 253.117}
+    - name: kompleAraHikaye_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 779
+        width: 1093
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -372.11707, y: 246.38293}
+        - {x: -372.11707, y: -245.61707}
+        - {x: 372.88293, y: -245.61707}
+        - {x: 372.88293, y: 246.38293}
+    - name: kompleAraHikaye_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1135
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -386.5, y: 256.68085}
+        - {x: -386.5, y: -255.31915}
+        - {x: 386.5, y: -255.31915}
+        - {x: 386.5, y: 256.68085}
+    - name: kompleAraHikaye_7
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 0
+        width: 1074
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -365.80853, y: 254.5}
+        - {x: -365.80853, y: -254.5}
+        - {x: 366.19147, y: -254.5}
+        - {x: 366.19147, y: 254.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

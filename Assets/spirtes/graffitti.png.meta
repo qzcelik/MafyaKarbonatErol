@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 117ba9d837fe0264e8c143255975ee66
+timeCreated: 1462547031
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: graffitti_0
+    21300002: graffitti_1
+    21300004: graffitti_2
+    21300006: graffitti_3
+    21300008: graffitti_4
+    21300010: graffitti_5
+    21300012: graffitti_6
+    21300014: graffitti_7
+    21300016: graffitti_8
+    21300018: graffitti_9
+    21300020: graffitti_10
+    21300022: graffitti_11
+    21300024: graffitti_12
+    21300026: graffitti_13
+    21300028: graffitti_14
+    21300030: graffitti_15
+    21300032: graffitti_16
+    21300034: graffitti_17
+    21300036: graffitti_18
+    21300038: graffitti_19
+    21300040: graffitti_20
+    21300042: graffitti_21
+    21300044: graffitti_22
+    21300046: graffitti_23
+    21300048: graffitti_24
+    21300050: graffitti_25
+    21300052: graffitti_26
+    21300054: graffitti_27
+    21300056: graffitti_28
+    21300058: graffitti_29
+    21300060: graffitti_30
+    21300062: graffitti_31
+    21300064: graffitti_32
+    21300066: graffitti_33
+    21300068: graffitti_34
+    21300070: graffitti_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: graffitti_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 860
+        width: 228
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 49}
+        - {x: -114, y: -49}
+        - {x: 114, y: -49}
+        - {x: 114, y: 23}
+        - {x: 95, y: 49}
+    - name: graffitti_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 873
+        width: 236
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: 40.5}
+        - {x: -118, y: -35.5}
+        - {x: -108, y: -40.5}
+        - {x: 118, y: -40.5}
+        - {x: 118, y: 14.5}
+        - {x: 102, y: 40.5}
+    - name: graffitti_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 860
+        width: 215
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: 48}
+        - {x: -96.5, y: 44}
+        - {x: -107.5, y: 30}
+        - {x: -107.5, y: -8}
+        - {x: -92.5, y: -44}
+        - {x: -89.5, y: -48}
+        - {x: 39.5, y: -48}
+        - {x: 105.5, y: -40}
+        - {x: 107.5, y: -26}
+        - {x: 107.5, y: 30}
+        - {x: 86.5, y: 48}
+    - name: graffitti_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 875
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 32.5}
+        - {x: 34.5, y: 33.5}
+        - {x: 26.5, y: 23.5}
+        - {x: 25.5, y: 20.5}
+        - {x: 25.5, y: 11.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 24.5, y: 39.5}
+        - {x: -47.5, y: 39.5}
+        - {x: -47.5, y: -31.5}
+        - {x: -25.5, y: -39.5}
+        - {x: 47.5, y: -39.5}
+        - {x: 47.5, y: 26.5}
+        - {x: 44.5, y: 30.5}
+    - name: graffitti_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 733
+        width: 248
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 40.5}
+        - {x: -67, y: 36.5}
+        - {x: -66, y: 15.5}
+        - {x: -82, y: 11.5}
+        - {x: -69, y: 21.5}
+        - {x: -72, y: 40.5}
+        - {x: -118, y: 40.5}
+        - {x: -124, y: 38.5}
+        - {x: -124, y: -40.5}
+        - {x: 124, y: -40.5}
+        - {x: 124, y: 31.5}
+        - {x: 85, y: 40.5}
+    - name: graffitti_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 718
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 50.5}
+        - {x: -77, y: 46.5}
+        - {x: -77, y: -42.5}
+        - {x: -74, y: -50.5}
+        - {x: 77, y: -50.5}
+        - {x: 77, y: 24.5}
+        - {x: 4, y: 50.5}
+    - name: graffitti_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 716
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: 49}
+        - {x: -84.5, y: -37}
+        - {x: -64.5, y: -49}
+        - {x: 69.5, y: -49}
+        - {x: 82.5, y: -45}
+        - {x: 84.5, y: -37}
+        - {x: 84.5, y: 45}
+        - {x: 66.5, y: 49}
+    - name: graffitti_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 725
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 53}
+        - {x: -8.5, y: 50}
+        - {x: -27.5, y: 7}
+        - {x: -27.5, y: -15}
+        - {x: -23.5, y: -19}
+        - {x: -27.5, y: -21}
+        - {x: -27.5, y: -43}
+        - {x: -13.5, y: -53}
+        - {x: 22.5, y: -53}
+        - {x: 27.5, y: -29}
+        - {x: 27.5, y: 43}
+        - {x: 16.5, y: 53}
+    - name: graffitti_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 606
+        width: 215
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: 44.5}
+        - {x: -107.5, y: -44.5}
+        - {x: 63.5, y: -44.5}
+        - {x: 107.5, y: -37.5}
+        - {x: 107.5, y: 16.5}
+        - {x: 85.5, y: 44.5}
+    - name: graffitti_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 595
+        width: 216
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108, y: 49}
+        - {x: -108, y: -41}
+        - {x: -81, y: -49}
+        - {x: 44, y: -49}
+        - {x: 108, y: -30}
+        - {x: 108, y: 33}
+        - {x: 46, y: 49}
+    - name: graffitti_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 601
+        width: 201
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 41.5}
+        - {x: -100.5, y: 41.5}
+        - {x: -100.5, y: -38.5}
+        - {x: -92.5, y: -41.5}
+        - {x: 74.5, y: -41.5}
+        - {x: 100.5, y: -37.5}
+        - {x: 100.5, y: 6.5}
+        - {x: 75.5, y: 17.5}
+    - name: graffitti_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 603
+        width: 162
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 29.5}
+        - {x: -81, y: 15.5}
+        - {x: -81, y: -16.5}
+        - {x: -78, y: -29.5}
+        - {x: 69, y: -29.5}
+        - {x: 81, y: -28.5}
+        - {x: 81, y: 23.5}
+        - {x: 53, y: 29.5}
+    - name: graffitti_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 518
+        width: 155
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 38.5}
+        - {x: -77.5, y: 37.5}
+        - {x: -77.5, y: -31.5}
+        - {x: -71.5, y: -38.5}
+        - {x: -61.5, y: -37.5}
+        - {x: -58.5, y: -34.5}
+        - {x: -55.5, y: -38.5}
+        - {x: 77.5, y: -38.5}
+        - {x: 77.5, y: 19.5}
+        - {x: 17.5, y: 38.5}
+    - name: graffitti_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 514
+        width: 242
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: 40.5}
+        - {x: -121, y: 35.5}
+        - {x: -121, y: -40.5}
+        - {x: 0, y: -40.5}
+        - {x: 121, y: -34.5}
+        - {x: 121, y: 18.5}
+        - {x: 16, y: 40.5}
+    - name: graffitti_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 504
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 45}
+        - {x: 9, y: 45}
+        - {x: 6, y: 30}
+        - {x: 7, y: 11}
+        - {x: 0, y: 12}
+        - {x: 1, y: 11}
+        - {x: 0, y: 29}
+        - {x: 1, y: 45}
+        - {x: -75, y: 45}
+        - {x: -75, y: -10}
+        - {x: -65, y: -45}
+        - {x: 75, y: -45}
+        - {x: 75, y: 11}
+        - {x: 47, y: 29}
+    - name: graffitti_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 507
+        width: 134
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 30.5}
+        - {x: 28, y: 42.5}
+        - {x: -65, y: 42.5}
+        - {x: -67, y: 36.5}
+        - {x: -67, y: -42.5}
+        - {x: 57, y: -42.5}
+        - {x: 67, y: -36.5}
+        - {x: 67, y: 9.5}
+    - name: graffitti_16
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 497
+        width: 176
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 44.5}
+        - {x: -88, y: 43.5}
+        - {x: -88, y: -44.5}
+        - {x: 78, y: -44.5}
+        - {x: 88, y: -40.5}
+        - {x: 88, y: 21.5}
+        - {x: 72, y: 44.5}
+    - name: graffitti_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 386
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 39}
+        - {x: -40.5, y: 30}
+        - {x: -40.5, y: -39}
+        - {x: 37.5, y: -39}
+        - {x: 40.5, y: -38}
+        - {x: 40.5, y: 19}
+        - {x: 30.5, y: 39}
+    - name: graffitti_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 383
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 30}
+        - {x: 14, y: 40}
+        - {x: -17, y: 40}
+        - {x: -22, y: 31}
+        - {x: -22, y: -40}
+        - {x: -9, y: -40}
+        - {x: -7, y: -38}
+        - {x: 20, y: -36}
+        - {x: 22, y: -36}
+    - name: graffitti_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 382
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 39.5}
+        - {x: -49, y: -26.5}
+        - {x: -40, y: -39.5}
+        - {x: 49, y: -39.5}
+        - {x: 49, y: 34.5}
+        - {x: 37, y: 39.5}
+    - name: graffitti_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 378
+        width: 138
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 42.5}
+        - {x: 43, y: 36.5}
+        - {x: 44, y: 16.5}
+        - {x: 14, y: 42.5}
+        - {x: -55, y: 42.5}
+        - {x: -69, y: 10.5}
+        - {x: -69, y: -42.5}
+        - {x: 69, y: -42.5}
+        - {x: 69, y: 34.5}
+        - {x: 66, y: 42.5}
+    - name: graffitti_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 363
+        width: 113
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 51.5}
+        - {x: -56.5, y: 43.5}
+        - {x: -56.5, y: -29.5}
+        - {x: -52.5, y: -32.5}
+        - {x: -3.5, y: -51.5}
+        - {x: 56.5, y: -51.5}
+        - {x: 56.5, y: 28.5}
+        - {x: -12.5, y: 51.5}
+    - name: graffitti_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 361
+        width: 136
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 43}
+        - {x: 4, y: 44}
+        - {x: -68, y: 44}
+        - {x: -68, y: -44}
+        - {x: 66, y: -44}
+        - {x: 68, y: -43}
+        - {x: 68, y: 34}
+        - {x: 39, y: 43}
+    - name: graffitti_23
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 348
+        width: 158
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 38}
+        - {x: 12, y: 30}
+        - {x: -44, y: 41}
+        - {x: -53, y: 31}
+        - {x: -53, y: 19}
+        - {x: -55, y: 41}
+        - {x: -62, y: 47}
+        - {x: -79, y: 47}
+        - {x: -79, y: -39}
+        - {x: -46, y: -47}
+        - {x: 21, y: -47}
+        - {x: 79, y: -32}
+        - {x: 79, y: 16}
+        - {x: 49, y: 46}
+    - name: graffitti_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 188
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 43.5}
+        - {x: -94, y: -40.5}
+        - {x: -81, y: -43.5}
+        - {x: 68, y: -43.5}
+        - {x: 94, y: -40.5}
+        - {x: 94, y: 21.5}
+        - {x: 72, y: 43.5}
+    - name: graffitti_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 257
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 41.5}
+        - {x: -81, y: -41.5}
+        - {x: 81, y: -41.5}
+        - {x: 81, y: 28.5}
+        - {x: 52, y: 41.5}
+    - name: graffitti_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 255
+        width: 234
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: 40.5}
+        - {x: -117, y: -33.5}
+        - {x: -99, y: -40.5}
+        - {x: 110, y: -40.5}
+        - {x: 117, y: -37.5}
+        - {x: 117, y: 26.5}
+        - {x: 110, y: 40.5}
+    - name: graffitti_27
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 17
+        width: 143
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 135}
+        - {x: -71.5, y: -135}
+        - {x: 71.5, y: -135}
+        - {x: 71.5, y: 135}
+    - name: graffitti_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 26.5}
+        - {x: -27, y: 51.5}
+        - {x: -65, y: 51.5}
+        - {x: -70, y: 43.5}
+        - {x: -70, y: -37.5}
+        - {x: -28, y: -51.5}
+        - {x: 54, y: -51.5}
+        - {x: 70, y: -35.5}
+        - {x: 70, y: 12.5}
+    - name: graffitti_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 126
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 28}
+        - {x: -9, y: 42}
+        - {x: -63, y: 42}
+        - {x: -63, y: -42}
+        - {x: 63, y: -42}
+        - {x: 63, y: 21}
+        - {x: 59, y: 26}
+    - name: graffitti_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 127
+        width: 172
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 29.5}
+        - {x: 57, y: 43.5}
+        - {x: -86, y: 43.5}
+        - {x: -86, y: -39.5}
+        - {x: -83, y: -43.5}
+        - {x: -67, y: -43.5}
+        - {x: -64, y: -41.5}
+        - {x: -54, y: -43.5}
+        - {x: 86, y: -43.5}
+    - name: graffitti_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 125
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -40.5}
+        - {x: 52.5, y: -38.5}
+        - {x: 52.5, y: -13.5}
+        - {x: 38.5, y: -5.5}
+        - {x: -14.5, y: 40.5}
+        - {x: -51.5, y: 40.5}
+        - {x: -52.5, y: 37.5}
+        - {x: -52.5, y: -40.5}
+        - {x: 26.5, y: -40.5}
+        - {x: 28.5, y: -39.5}
+        - {x: 31.5, y: -36.5}
+        - {x: 36.5, y: -40.5}
+    - name: graffitti_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 39}
+        - {x: -40.5, y: 30}
+        - {x: -40.5, y: -39}
+        - {x: 37.5, y: -39}
+        - {x: 40.5, y: -38}
+        - {x: 40.5, y: 19}
+        - {x: 30.5, y: 39}
+    - name: graffitti_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 14
+        width: 180
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: 40.5}
+        - {x: -90, y: -37.5}
+        - {x: -68, y: -40.5}
+        - {x: 90, y: -40.5}
+        - {x: 90, y: 27.5}
+        - {x: 87, y: 40.5}
+    - name: graffitti_34
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 14
+        width: 128
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 40.5}
+        - {x: -64, y: 37.5}
+        - {x: -64, y: -40.5}
+        - {x: 64, y: -40.5}
+        - {x: 64, y: 21.5}
+        - {x: 24, y: 40.5}
+    - name: graffitti_35
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 18
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 38.5}
+        - {x: -32.5, y: -38.5}
+        - {x: 32.5, y: -38.5}
+        - {x: 32.5, y: 34.5}
+        - {x: 30.5, y: 38.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

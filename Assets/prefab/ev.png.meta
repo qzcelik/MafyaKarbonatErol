@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: b84dfc821476f85448f5b92710eea3c8
+timeCreated: 1457262658
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ev
+    21300002: cit
+    21300004: cubuk
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ev
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 154
+        width: 451
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166.5, y: 250}
+        - {x: -165.5, y: 250}
+        - {x: -165.5, y: 212}
+        - {x: -225.5, y: 212}
+        - {x: -225.5, y: -250}
+        - {x: 225.5, y: -250}
+        - {x: 225.5, y: 212}
+        - {x: 166.5, y: 212}
+    - name: cit
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 60
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 71.5}
+        - {x: -30, y: 41.5}
+        - {x: -30, y: -71.5}
+        - {x: 30, y: -71.5}
+        - {x: 30, y: 40.5}
+        - {x: 4, y: 71.5}
+    - name: cubuk
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 67
+        width: 212
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
